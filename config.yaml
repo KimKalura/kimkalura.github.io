@@ -118,7 +118,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Raluca."
-    subtitle: "I build things for the web"
+    subtitle: "I explore the <world of code> to improve my knowledge"
     content: "An enthusiastic back-end developer. I enjoy coding, problem solving, reading and learning foreign languages."
     image: /images/projects/image2.jpg
     # roundImage: true # Make hero image circular | default false
@@ -233,7 +233,7 @@ params:
       # title: "Custom Name"
       items:
         - title: Language App
-          content: An application for polyglots and lovers of literature. שפה חדשה היא חיים חדשים
+          content: An application for polyglots and lovers of literature. Learn a language to touch people’s heart!  שפה חדשה היא חיים חדשים
           image: /images/projects/languages.jpg
           featured:
             name: Demo
@@ -256,17 +256,21 @@ params:
             - "MySQL"
             - "Spring"
           links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
               url: https://github.com/KimKalura/Ecommerce
 
         - title: Cinema City
-          content: An application designed for cinema which needs a digital ticketing system and for purchase movie tickets.
+          content: An application designed for cinema which needs a digital ticketing system.
           image: /images/projects/cinema.jpg
           badges:
             - "Java"
             - "MySQL"
             - "Spring"
           links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
               url: https://github.com/KimKalura/Cinema-City
 
@@ -278,6 +282,8 @@ params:
             - "MySQL"
             - "Spring"
           links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
               url: https://github.com/KimKalura/Price-Generator
 
@@ -289,6 +295,8 @@ params:
             - "MySQL"
             - "Spring"
           links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
               url: https://github.com/KimKalura/Booking
 
@@ -296,10 +304,12 @@ params:
           content: This platform is dedicated to programmers who can share code but which cannot be made public.
           image: /images/projects/coding.jpg.jpg
           badges:
-            - "Javaa"
+            - "Java"
             - "MySQL"
             - "Spring"
           links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
               url: https://github.com/KimKalura/Code-Sharing-Platform
 
@@ -311,6 +321,8 @@ params:
             - "MySQL"
             - "Spring"
           links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
               url: https://github.com/KimKalura/Weather-App
 
@@ -319,11 +331,118 @@ params:
           image: /images/projects/library.jpg
           badges:
             - "Java"
-            - "MySQL"
-            - "Spring"
           links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
               url: https://github.com/KimKalura/Library-Project
+
+        - title: IMDb Clone
+          content: An IMDB clone having functions as favoriting and rating movies and listing genres, movies.
+          image: /images/projects/matrix.jpg
+          badges:
+            - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/IMDb-Simulation
+
+        - title: Data Structures and Algorithms
+          content: This repository contains various exercises with algorithms and data structures (array, tree, stack, queue, list).
+          image: /images/projects/algorithms.png
+          badges:
+            - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/DSA
+
+        - title: OOP (Object-Oriented Programming)
+          content: These repositories contains small projects with OOP. They are based on the concept of objects, which are instances of classes, and the relationships between them (Inheritance, Polymorphism, Encapsulation, Abstraction).
+          image: /images/projects/oop.webp
+          badges:
+            - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/OOP1
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/OOP2
+
+        - title: Unit Testing
+          content: Testing involves checking whether the result of the  application meets specific requirements or not. Here are pieces of code that test methods from classes, that is, the smallest units of code that can be tested.
+          image: /images/projects/unit.jpg
+          badges:
+              - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/UnitTesting1
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/UnitTesting2
+
+        - title: Java Collections
+          content: Java collections provide a convenient and efficient way to store and manipulate data in a structured way.
+          image: /images/projects/collection.jpg
+          badges:
+            - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/Collections
+
+        - title: Design Patterns
+          content: Design patterns are general reusable solutions to common problems that occur in software design. Here are examples of what they represent (Singleton, Factory method).
+          image: /images/projects/design1.jpg
+          badges:
+            - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/Design-Patterns
+
+        - title: Design Principles
+          content: SOLID principles help to write code that is easy to maintain, understandable and flexible (Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle).
+          image: /images/projects/design3.jpg
+          badges:
+            - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/Design-Principles
+
+        - title: Calorie Counter
+          content: This application helps you track the number of calories you consume throughout the day.
+          image: /images/projects/calories.webp
+          badges:
+            - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/Calories-Counter-Project-BackEnd
+
+        - title: Basic Algorithms
+          content: Repositories include exercises with algorithms.
+          image: /images/projects/algorithms1.png
+          badges:
+            - "Java"
+          links:
+            - icon: fa fa-envelope
+              url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/BasicExercises_1/tree/main/src
+            - icon: fab fa-github
+              url: https://github.com/KimKalura/BasicExercises_2/tree/main/src
+
+
 
   #Contact
   contact:
@@ -338,7 +457,7 @@ params:
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
 
-#  footer:
+  footer:
 #    recentPosts:
 #      path: "blogs"
 #      count: 3
