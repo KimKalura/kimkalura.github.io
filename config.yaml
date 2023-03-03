@@ -118,7 +118,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Raluca."
-    subtitle: "I explore the <world of code> to improve my knowledge"
+    subtitle: "I explore the world of coding to improve my knowledge"
     content: "An enthusiastic back-end developer. I enjoy coding, problem solving, reading and learning foreign languages."
     image: /images/projects/image2.jpg
     # roundImage: true # Make hero image circular | default false
@@ -381,8 +381,6 @@ params:
             - icon: fa fa-envelope
               url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
-              url: https://github.com/KimKalura/UnitTesting1
-            - icon: fab fa-github
               url: https://github.com/KimKalura/UnitTesting2
 
         - title: Java Collections
@@ -438,9 +436,9 @@ params:
             - icon: fa fa-envelope
               url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
             - icon: fab fa-github
-              url: https://github.com/KimKalura/BasicExercises_1/tree/main/src
+              url: https://github.com/KimKalura/BasicExercises_1
             - icon: fab fa-github
-              url: https://github.com/KimKalura/BasicExercises_2/tree/main/src
+              url: https://github.com/KimKalura/BasicExercises_2
 
 
 
