@@ -251,6 +251,9 @@ params:
         - title: E-commerce
           content: A web application created for transactions made on the Internet.
           image: /images/projects/onlineshopping.png
+          featured:
+            name: Demo
+            link: https://pure-tundra-12782.herokuapp.com/swagger-ui/
           badges:
             - "Java"
             - "MySQL"
@@ -264,6 +267,9 @@ params:
         - title: Cinema City
           content: An application designed for cinema which needs a digital ticketing system.
           image: /images/projects/cinema.jpg
+          featured:
+            name: Demo
+            link: https://rocky-mountain-49016.herokuapp.com/swagger-ui/
           badges:
             - "Java"
             - "MySQL"
@@ -277,6 +283,9 @@ params:
         - title: Price Generator
           content: Price generator calculate discount for products and also can create a quote.
           image: /images/projects/price.png
+          featured:
+            name: Demo
+            link: https://calm-retreat-70575.herokuapp.com/swagger-ui/
           badges:
             - "Java"
             - "MySQL"
@@ -290,6 +299,9 @@ params:
         - title: Hotel Reservation System
           content: This application allows the guest to be informed about the tariff of room reserved at time of booking and maintains records of the hotel occupancy.
           image: /images/projects/hotel.jpg
+          featured:
+            name: Demo
+            link: https://vast-peak-02725.herokuapp.com/swagger-ui/
           badges:
             - "Java"
             - "MySQL"
@@ -303,6 +315,9 @@ params:
         - title: Code Sharing Platform
           content: This platform is dedicated to programmers who can share code but which cannot be made public.
           image: /images/projects/coding.jpg.jpg
+          featured:
+            name: Demo
+            link: https://whispering-hamlet-04296.herokuapp.com/swagger-ui/
           badges:
             - "Java"
             - "MySQL"
@@ -316,6 +331,9 @@ params:
         - title: Weather App
           content: This application display the latest official weather forecasts of a city.
           image: /images/projects/weather.jpg
+          featured:
+            name: Demo
+            link: https://floating-shelf-28500.herokuapp.com/swagger-ui/
           badges:
             - "Java"
             - "MySQL"
