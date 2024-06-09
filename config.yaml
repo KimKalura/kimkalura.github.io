@@ -175,7 +175,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Back-end development"
+      - title: "Back-end  development"
         school:
           name: "JustCodeIt"
           url: "https://credsverse.com/credentials/b004ecb1-21a9-4c63-b688-925cac287c16"
