@@ -165,7 +165,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Freelancer translator"
+      - job: "Freelance translator"
         date: "2021 - present"
         content: "I am currently working in translation domain. Source language - German, target language - Romanian. Field of specialization: Literature, History, Official documents"
 
