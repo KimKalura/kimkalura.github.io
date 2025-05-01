@@ -137,7 +137,7 @@ params:
     title: "Raluca."
     subtitle: "I explore the world of coding to improve my knowledge"
     content: "An enthusiastic back-end developer. I enjoy coding, problem solving, reading and learning foreign languages."
-    image: /images/projects/me.jpg
+    image: /images/projects/r.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
