@@ -60,7 +60,7 @@ Menus:
 
 params:
   title: "Hugo Profile"
-  description: Text about my cool site
+  description: Take a look
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -134,10 +134,10 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    title: "Raluca."
+    subtitle: "I explore the world of coding to improve my knowledge"
+    content: "An enthusiastic back-end developer. I enjoy coding, problem solving, reading and learning foreign languages."
+    image: /images/projects/me.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -150,32 +150,32 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
+          url: https://github.com/KimKalura
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/floriana-raluca-deftu/
       customIcons:
         - icon: /fav.png
-          url: "https://example.com"
+          url: "https://kimkalura.github.io/"
 
   # About
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/projects/programmer.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I have a passion for web development and curiosity laid me to this 'coding world'. I am open for any opportunity to be a back-end programmer developer, with different technologies.
+  
+      I am currently developing an application for learning and practicing a foreign language. The purpose is an educational one, of online cultural exchange, where polyglots and lovers of fiction and writing short prose/poetry will be able to interact.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
+        - "Java"
+        - "Spring Boot"
+        - "OOP"
+        - "MySQL"
         - "HTML"
         - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
 
   # Experience
 #  experience:
@@ -248,42 +248,57 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Back-end development"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "JustCodeIt"
+          url: "https://credsverse.com/credentials/b004ecb1-21a9-4c63-b688-925cac287c16"
+        date: "2022 - 2023"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          Skills: Unit Testing · Back-end development · Java · Algorithms · OOP · Relational Databases · SQL · Git · HTML · CSS · Web services · REST APIs · Spring Boot · Spring Framework · MySQL · Data Structures · Web Development · Software Development
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+      - title: "Master's degree of German Culture in European Context"
+        school:
+          name: "Alexandru Ioan Cuza University"
+          url: "https://www.uaic.ro/"
+        date: "2018 - 2020"
+        content: |-
+          German Language and Literature
+          
+          Master's dissertation: Wanderschaft als jüdisches Motiv bei Joseph Roth
+          
+          Supplementary courses:
+            - Chinese language
+            - Korean language
+            - Italian language
+
+      - title: "Summer School"
+        school:
+          name: "Jagiellonian University"
+          url: "https://isad.uj.edu.pl/en_GB/start"
+        date: "2018 - 2018"
+        content: |-
+          - Polish Language and History
+
+      - title: "Bachelor's degree of Language and Literature"
+        school:
+          name: "Alexandru Ioan Cuza University"
+          url: "https://www.uaic.ro/"
+        date: "2015 - 2018"
+        content: |-
+          Romanian Language and Literature - German Language and Literature 
+          
+          Bachelor's thesis: Das Motiv der Schuld im Werk von Franz Kafka und Albert Camus
+          
+          Supplementary courses:
+            - Chinese language
+            - Hebrew language
+            - Russian language
+            - Modern Greek language
+
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Barbu Stirbei National College"
+          url: "http://cnbs.ro/"
 
   # Achievements
 #  achievements:
@@ -516,7 +531,7 @@ params:
 
       - title: Calorie Counter
         content: This application helps you track the number of calories you consume throughout the day.
-        image: /images/projects/calorie_counter.png
+        image: /images/projects/calories.png
         badges:
           - "Java"
         links:
