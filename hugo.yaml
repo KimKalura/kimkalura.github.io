@@ -312,50 +312,231 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Language App
+        content: An application for polyglots and lovers of literature. Learn a language to touch people’s heart!  שפה חדשה היא חיים חדשים
+        image: /images/projects/languages.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://safe-wildwood-25661.herokuapp.com/swagger-ui/
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Java"
+          - "MySQL"
+          - "Spring"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/KimKalura/Language-App-Final-Project
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: E-commerce
+        content: A web application created for transactions made on the Internet.
+        image: /images/projects/ecommerce.webp
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: https://pure-tundra-12782.herokuapp.com/swagger-ui/
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Java"
+          - "MySQL"
+          - "Spring"
         links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/KimKalura/Ecommerce
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: Cinema City
+        content: An application designed for cinema which needs a digital ticketing system.
+        image: /images/projects/cinema.jpg
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Demo
+          link: https://rocky-mountain-49016.herokuapp.com/swagger-ui/
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Java"
+          - "MySQL"
+          - "Spring"
         links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/KimKalura/Cinema-City
+
+      - title: Price Generator
+        content: Price generator calculate discount for products and also can create a quote.
+        image: /images/projects/price.jpg
+        featured:
+          name: Demo
+          link: https://calm-retreat-70575.herokuapp.com/swagger-ui/
+        badges:
+          - "Java"
+          - "MySQL"
+          - "Spring"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Price-Generator
+
+      - title: Hotel Reservation System
+        content: This application allows the guest to be informed about the tariff of room reserved at time of booking and maintains records of the hotel occupancy.
+        image: /images/projects/hotel.webp
+        featured:
+          name: Demo
+          link: https://vast-peak-02725.herokuapp.com/swagger-ui/
+        badges:
+          - "Java"
+          - "MySQL"
+          - "Spring"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Booking
+
+      - title: Code Sharing Platform
+        content: This platform is dedicated to programmers who can share code but which cannot be made public.
+        image: /images/projects/code.jpg
+        featured:
+          name: Demo
+          link: https://whispering-hamlet-04296.herokuapp.com/swagger-ui/
+        badges:
+          - "Java"
+          - "MySQL"
+          - "Spring"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Code-Sharing-Platform
+
+      - title: Weather App
+        content: This application display the latest official weather forecasts of a city.
+        image: /images/projects/weather.jpg
+        featured:
+          name: Demo
+          link: https://floating-shelf-28500.herokuapp.com/swagger-ui/
+        badges:
+          - "Java"
+          - "MySQL"
+          - "Spring"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Weather-App
+
+      - title: Library Project
+        content: It offers users and administrators functionality to borrow and return books.
+        image: /images/projects/library.jpg
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Library-Project
+
+      - title: IMDb Clone
+        content: An IMDB clone having functions as favoriting and rating movies and listing genres, movies.
+        image: /images/projects/movie.jpg
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/IMDb-Simulation
+
+      - title: Data Structures and Algorithms
+        content: This repository contains various exercises with algorithms and data structures (array, tree, stack, queue, list).
+        image: /images/projects/algorithms.png
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/DSA
+
+      - title: OOP (Object-Oriented Programming)
+        content: These repositories contains small projects with OOP. They are based on the concept of objects, which are instances of classes, and the relationships between them (Inheritance, Polymorphism, Encapsulation, Abstraction).
+        image: /images/projects/oop.png
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/OOP1
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/OOP2
+
+      - title: Unit Testing
+        content: Testing involves checking whether the result of the  application meets specific requirements or not. Here are pieces of code that test methods from classes, that is, the smallest units of code that can be tested.
+        image: /images/projects/unittesting.jpg
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/UnitTesting2
+
+      - title: Java Collections
+        content: Java collections provide a convenient and efficient way to store and manipulate data in a structured way.
+        image: /images/projects/collections.jpg
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Collections
+
+      - title: Design Patterns
+        content: Design patterns are general reusable solutions to common problems that occur in software design. Here are examples of what they represent (Singleton, Factory method).
+        image: /images/projects/design_patterns.webp
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Design-Patterns
+
+      - title: Design Principles
+        content: SOLID principles help to write code that is easy to maintain, understandable and flexible (Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle).
+        image: /images/projects/solid.png
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Design-Principles
+
+      - title: Calorie Counter
+        content: This application helps you track the number of calories you consume throughout the day.
+        image: /images/projects/calorie_counter.png
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/Calories-Counter-Project-BackEnd
+
+      - title: Basic Algorithms
+        content: Repositories include exercises with algorithms.
+        image: /images/projects/basic_algo.webp
+        badges:
+          - "Java"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/BasicExercises_1
+          - icon: fab fa-github
+            url: https://github.com/KimKalura/BasicExercises_2
 
   #Contact
   contact:
@@ -363,7 +544,7 @@ params:
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnLink: mailto:raluca.deftu@yahoo.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
