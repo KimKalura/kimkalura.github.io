@@ -353,6 +353,7 @@ params:
           - "Java"
           - "MySQL"
           - "Spring"
+          - "Docker"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -369,6 +370,7 @@ params:
           - "Java"
           - "MySQL"
           - "Spring"
+          - "Docker"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -393,7 +395,7 @@ params:
 
       - title: Hotel Reservation System
         content: This application allows the guest to be informed about the tariff of room reserved at time of booking and maintains records of the hotel occupancy.
-        image: /images/projects/hotel.webp
+        image: /images/projects/hotel.jpg
         featured:
           name: Demo
           link: https://vast-peak-02725.herokuapp.com/swagger-ui/
